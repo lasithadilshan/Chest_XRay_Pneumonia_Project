@@ -14,7 +14,7 @@ This repository contains the code and resources for detecting pneumonia from che
 - [Results](#results)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -140,16 +140,10 @@ The script will load the trained model and output the classification result (Nor
 
 Explore the Jupyter notebooks in the `notebooks/` directory to understand the data analysis, model architecture, training process, and evaluation.
 
-## Contributing
+## Contributors
 
-Contributions are welcome! If you have suggestions or want to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes.
-4. Push to your fork and submit a pull request.
-
-Please ensure your code adheres to the existing style and includes necessary tests.
+- **Lasitha Dilshan** (Developer) - [GitHub Profile](https://github.com/lasithadilshan)
+- **Gihan Thilakarathna** (Developer) - [GitHub Profile](https://github.com/GihanThilakarathna)
 
 ## License
 
